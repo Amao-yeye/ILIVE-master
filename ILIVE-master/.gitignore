@@ -1,0 +1,7 @@
+##ignore this file##
+.catkin_workspace
+.vscode/
+build/
+devel/
+install/
+dataset/
